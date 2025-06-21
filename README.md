@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/kmy_YNhl0mw" target="_blank">
-      <img src="https://i.ibb.co/Bf04Hpd/Readme-thumbnail-from-JS-Mastery.png" alt="Project Banner">
-    </a>
+    <img src="https://i.ibb.co/Bf04Hpd/Readme-thumbnail-from-JS-Mastery.png" alt="GoHop Project Banner">
   <br />
 
   <div>
@@ -12,12 +10,9 @@
     <img src="https://img.shields.io/badge/-Stripe-black?style=for-the-badge&logoColor=white&logo=stripe&color=008CDD" alt="stripe" />
   </div>
 
-
-<h3 align="center">Full Stack Uber Clone</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
+<h3 align="center">GoHop – Full Stack Ride Sharing App</h3>
+<p align="center"><b>Developed by Moin Adnan</b></p>
+<p align="center">This project is a modern, full-stack ride sharing app inspired by Uber, built from scratch by <b>Moin Adnan</b>.<br>All code, features, and design are original work unless otherwise credited.</p>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -33,8 +28,7 @@
 
 ## 🚨 Tutorial
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube
-channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
+This repository contains the code for GoHop, a full-stack ride sharing app developed by Moin Adnan.
 
 If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects
 like these step-by-step in a beginner-friendly manner!
@@ -1714,21 +1708,16 @@ export const useDriverStore = create<DriverStore>((set) => ({
 
 ## <a name="links">🔗 Links</a>
 
-You can find important links mentioned in the YouTube video below:
-
 - <a href="https://www.nativewind.dev/quick-starts/expo" target="_blank">Expo NativeWind Setup</a>
-- <a href="https://www.nativewind.dev/v4/getting-started/typescript" target="_blank">TypeScript Support for
-  NativeWind</a>
+- <a href="https://www.nativewind.dev/v4/getting-started/typescript" target="_blank">TypeScript Support for NativeWind</a>
 - <a href="https://docs.expo.dev/guides/using-eslint/" target="_blank">Eslint and Prettier Setup</a>
-- <a href="https://jb.gg/JSMastery" target="_blank">Download FREE WebStorm</a>
 - <a href="https://neon.tech/" target="_blank">Serverless NeonDB</a>
 - <a href="https://go.clerk.com/DtiSBEI" target="_blank">Clerk Auth</a>
 - <a href="https://courses.jsmastery.pro/course/databases" target="_blank">Database Mastery Course</a>
 - <a href="https://clerk.com/docs/quickstarts/expo" target="_blank">Clerk Expo Quickstart</a>
 - <a href="https://clerk.com/docs/custom-flows/oauth-connections" target="_blank">Clerk Expo OAuth</a>
 - <a href="https://www.geoapify.com/" target="_blank">Geoapify Map</a>
-- <a href="https://docs.stripe.com/payments/accept-a-payment?platform=react-native&ui=payment-sheet" target="_blank">
-  Stripe React Native SDK</a>
+- <a href="https://docs.stripe.com/payments/accept-a-payment?platform=react-native&ui=payment-sheet" target="_blank">Stripe React Native SDK</a>
 - <a href="https://docs.stripe.com/payments/accept-a-payment-deferred" target="_blank">Stripe</a>
 
 ## <a name="assets">📦 Assets</a>
@@ -1741,7 +1730,3 @@ found [here](https://drive.google.com/file/d/1ekttG-aCyy4g0SKqLSrEn_uHf2MJMRJ4/v
 **Advance your skills with Next.js Pro Course**
 
 Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
-<img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
-</a>
